@@ -1,0 +1,16 @@
+
+.main {
+  height: 80vh;              
+  display: flex;              
+  justify-content: center;    
+  align-items: center;        
+  flex-direction: column;    
+  text-align: center;         
+  color: white;         
+  font-size: 50px;    
+}
+.main h1{
+    font-weight: 600;
+    color: #bbb8ad;
+}
+
