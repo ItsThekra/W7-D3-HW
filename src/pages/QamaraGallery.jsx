@@ -6,15 +6,13 @@ function QamaraGallery() {
      <div className="historic-container">
 
 
-        
-      <video
-        className="background-video"
-        autoPlay
-        loop
-      >
-        <source src="public\videos\video-5.mp4" type="video/mp4" />
-   
-      </video>
+        <video
+            src="/videos/video-5.mp4"
+            type="video/mp4"
+            className="background-video"
+            autoPlay
+            loop
+            ></video>
 
       <div className="content">
         <h1>.. معرض قمرا</h1>

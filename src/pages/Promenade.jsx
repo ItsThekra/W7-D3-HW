@@ -6,14 +6,14 @@ export default function Promenade() {
   return (
          <>
      <div className="historic-container">
-      <video
-        className="background-video"
-        autoPlay
-        loop
-      >
-        <source src="public\videos\video-4.mp4" type="video/mp4" />
-    
-      </video>
+
+         <video
+            src="/videos/video-4.mp4"
+            type="video/mp4"
+            className="background-video"
+            autoPlay
+            loop
+        ></video>
 
       <div className="content">
         <h1>..البروميناد</h1>

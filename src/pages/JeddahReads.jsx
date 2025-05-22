@@ -6,14 +6,14 @@ function JeddahReads() {
   return (
     <>
      <div className="historic-container">
-      <video
+
+         <video
+        src="/videos/video-3.mp4"
+        type="video/mp4"
         className="background-video"
         autoPlay
         loop
-      >
-        <source src="public\videos\video-3.mp4" type="video/mp4" />
-    
-      </video>
+        ></video>
 
       <div className="content">
         <h1>جدة تقرأ</h1>

@@ -10,18 +10,7 @@ function HistoricJeddah() {
         className="background-video"
         autoPlay
         loop
-        muted
-    
         ></video>
-
-      {/* <video
-        className="background-video"
-        autoPlay
-        loop
-      >
-        <source src="public\videos\video-1.mp4" type="video/mp4" />
-    
-      </video> */}
 
       <div className="content">
         <h1>جدة التاريخية</h1>

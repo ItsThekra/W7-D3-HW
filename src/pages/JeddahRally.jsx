@@ -4,14 +4,14 @@ import "../assets/styles/HistoricJeddah.css";
 function JeddahRally() {
   return (
     <div className="historic-container">
-      <video
+
+         <video
+        src="/videos/video-2.MOV"
+        type="video/mp4"
         className="background-video"
         autoPlay
         loop
-      >
-        <source src="public\videos\video-2.MOV" type="video/mp4" />
-    
-      </video>
+        ></video>
 
       <div className="content">
         <h1> رالي جدة</h1>
