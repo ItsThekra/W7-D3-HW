@@ -6,7 +6,7 @@ import "../assets/styles/Navbar.css";
 export default function Navbar() {
   return (
     <nav>
-          <Link to="/HistoricJeddah">
+          <Link to ="/HistoricJeddah">
           <div class="card" id="HistoricJeddah"> 
           <p class="heading">
               جــــدة 

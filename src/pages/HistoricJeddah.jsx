@@ -3,14 +3,20 @@ import "../assets/styles/HistoricJeddah.css";
 function HistoricJeddah() {
   return (
     <div className="historic-container">
-      <video
+
+        <iframe src="ublic\videos\video-1.mp4" frameborder="0" type="video/mp4"
+            className="background-video"
+            autoPlay
+            loop
+        ></iframe>
+      {/* <video
         className="background-video"
         autoPlay
         loop
       >
         <source src="public\videos\video-1.mp4" type="video/mp4" />
     
-      </video>
+      </video> */}
 
       <div className="content">
         <h1>جدة التاريخية</h1>
