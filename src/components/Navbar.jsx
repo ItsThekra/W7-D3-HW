@@ -60,7 +60,6 @@ export default function Navbar() {
             </p>
             </div>
            </Link>  
-     
     </nav>
   );
 }

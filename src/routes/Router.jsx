@@ -12,8 +12,10 @@ import QamaraGallery from "../pages/QamaraGallery";
 function Layout() {
   return (
     <>
+     <Outlet />
       <Navbar />
-      <Outlet />
+
+     
       {/* <Footer /> */}
     </>
   );
