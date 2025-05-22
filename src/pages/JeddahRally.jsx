@@ -4,8 +4,9 @@ import "../assets/styles/HistoricJeddah.css";
 function JeddahRally() {
   return (
     <div className="historic-container">
+        {/* public\videos\video-1.mp4 */}
          <video
-        src="/videos/video-1.mp4"
+        src="public\videos\video-1.mp4"
         type="video/mp4"
         className="background-video"
         autoPlay
