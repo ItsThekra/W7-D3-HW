@@ -5,7 +5,7 @@ function JeddahRally() {
   return (
     <div className="historic-container">
          <video
-        src="/videos/video-1.mp4"
+        src="/videos/video-2.MOV"
         type="video/mp4"
         className="background-video"
         autoPlay
