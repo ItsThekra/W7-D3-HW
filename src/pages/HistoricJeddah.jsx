@@ -4,12 +4,16 @@ function HistoricJeddah() {
   return (
     <div className="historic-container">
 
-        <iframe src="./videos/video-1.mp4" frameborder="0" type="video/mp4"
-            controls
-            className="background-video"
-            autoPlay
-            loop
-        ></iframe>
+        <video
+        src="/videos/video-1.mp4"
+        type="video/mp4"
+        className="background-video"
+        autoPlay
+        loop
+        muted
+        controls
+        ></video>
+
       {/* <video
         className="background-video"
         autoPlay
