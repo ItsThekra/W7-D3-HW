@@ -11,7 +11,7 @@ function JeddahReads() {
         autoPlay
         loop
       >
-        <source src="src/assets/videos/video-3.mp4" type="video/mp4" />
+        <source src="public\videos\video-3.mp4" type="video/mp4" />
     
       </video>
 

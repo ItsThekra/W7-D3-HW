@@ -11,7 +11,7 @@ export default function Promenade() {
         autoPlay
         loop
       >
-        <source src="src/assets/videos/video-4.mp4" type="video/mp4" />
+        <source src="public\videos\video-4.mp4" type="video/mp4" />
     
       </video>
 

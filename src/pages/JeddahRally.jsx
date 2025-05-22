@@ -9,7 +9,7 @@ function JeddahRally() {
         autoPlay
         loop
       >
-        <source src="src/assets/videos/video-2.MOV" type="video/mp4" />
+        <source src="public\videos\video-2.MOV" type="video/mp4" />
     
       </video>
 
