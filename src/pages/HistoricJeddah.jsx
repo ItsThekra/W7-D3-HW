@@ -11,7 +11,7 @@ function HistoricJeddah() {
         autoPlay
         loop
         muted
-        controls
+    
         ></video>
 
       {/* <video
