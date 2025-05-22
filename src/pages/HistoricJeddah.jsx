@@ -3,7 +3,6 @@ import "../assets/styles/HistoricJeddah.css";
 function HistoricJeddah() {
   return (
     <div className="historic-container">
-
         <video
         src="/videos/video-1.mp4"
         type="video/mp4"
