@@ -4,7 +4,7 @@ function HistoricJeddah() {
   return (
     <div className="historic-container">
 
-        <iframe src="ublic\videos\video-1.mp4" frameborder="0" type="video/mp4"
+        <iframe src="public\videos\video-1.mp4" frameborder="0" type="video/mp4"
             className="background-video"
             autoPlay
             loop
